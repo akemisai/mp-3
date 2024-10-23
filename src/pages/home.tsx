@@ -10,7 +10,7 @@ export default function Home() {
                 <main>
                     <section>
                         <h2>Home</h2>
-                        <img src="../pic.jpg" alt="Picture of Akemi Sai" width="300" />
+                        <img src="/pic.jpg" alt="Picture of Akemi Sai" width="300" />
                         <p>My name is Akemi Sai, and I am a full-time undergraduate student at Boston University studying Computer Science</p>
                         <h3>Contact Information</h3>
                         <p>Email: akemisai@bu.edu</p>
